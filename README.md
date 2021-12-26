@@ -5,6 +5,6 @@
 * http
 * https
 * url
-* crypro
+* crypto
 ## NOTE: Still in progress
 
