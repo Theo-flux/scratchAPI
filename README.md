@@ -5,6 +5,7 @@
 * http
 * https
 * url
+* path
 * crypto
 ## NOTE: Still in progress
 
