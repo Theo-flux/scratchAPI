@@ -1,4 +1,5 @@
 # ScratchAPI (The bare-bones)
+##### NOTE: Still in progress
 ### An in progress attempt at building a very basic RESTful api with just nodejs (no additional framework)
 ## Libraries used
 * fs
@@ -7,5 +8,19 @@
 * url
 * path
 * crypto
-## NOTE: Still in progress
+
+## Services (Routes)
+### ping
+#### ping will be explained 
+
+### notFound
+#### notFound will be explained
+
+### users
+#### users will be explained
+
+
+### tokens
+#### tokens will be explained
+
 
