@@ -11,7 +11,7 @@ const fs = require('fs')
 const StringDecoder = require('string_decoder').StringDecoder
 const helpers = require('./lib/helpers')
 const config = require('./lib/config')
-// const _data = require('./lib/data')
+const handlers = require('./lib/handlers')
 const routers = require('./lib/routes')
 
 
